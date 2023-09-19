@@ -1,0 +1,9 @@
+{
+	"name": "dfudp4",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e154593-9b6b-4b59-af92-f91a14223eec",
+		"tenantId": "29b4b088-d27d-4129-b9f9-8637b59ea4b3"
+	}
+}
